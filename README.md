@@ -5,7 +5,7 @@ This repository contains the projects that I have done in the area of deep learn
 # Computer Vision
 | S.No. | Title                           | Description                                                                                          | Software Used |
 |-------|---------------------------------|------------------------------------------------------------------------------------------------------| ----- |
-| 1.    | **Contrastive Representation Learning** | Implemented Contrastive Representation Learning on the CIFAR-10 dataset using a ResNet architecture as the encoder network, and generated t-SNE plots for evaluating the classification performance of the model. Attained **86% test accuracy**. More details can be found in the report. | * python-3.x<br> * **Packages**: numpy, pytorch |
+| 1.    | **Contrastive Representation Learning** | Implemented _Contrastive Representation Learning_ on the CIFAR-10 dataset using a ResNet architecture as the encoder network, and generated _t-SNE_ plots for evaluating the classification performance of the model. Attained **86% test accuracy**. More details can be found in the report. | * python-3.x<br> * **Packages**: numpy, pytorch |
 
 
 --------------------------------
