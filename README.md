@@ -14,5 +14,5 @@ This repository contains the projects that I have done in the area of deep learn
 # Natural Language Processing
 | S.No. | Title | Description | Software Used |
 | ------| ------| --------| ----- |
-| 1. | **LoRA and Knowledge Distillation(KD)** | implemented Low Rank Approximation (LoRA) and Knowledge Distillation methods on sentence classification task on COLAH dataset using GPT-2 model. More Details can be found in the report.|* python-3.x<br> * **Packages**: numpy, pytorch, transformers |
+| 1. | **LoRA and Knowledge Distillation(KD)** | Implemented Low Rank Approximation (LoRA) and Knowledge Distillation methods on sentence classification task on COLAH dataset using GPT-2 model. More Details can be found in the report.|* python-3.x<br> * **Packages**: numpy, pytorch, transformers |
 
